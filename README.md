@@ -1,4 +1,4 @@
 👋 Hi, I’m @kAarol
 
-- 🌱 I’m currently learning JavaScript
+-  I’m currently learning TypeScript
 
